@@ -54,6 +54,8 @@ body:before {
     z-index: 1;
     top: 182px;
     right: 22px;
+    max-width: 742px;
+    max-height: 142px;
     position: absolute;
     content: 'На самом деле нет.\AВажнее &mdash; научиться ошибаться.';
     white-space: pre;
